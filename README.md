@@ -1,1 +1,1 @@
-# java-sprint-practice
+# java-spring-practice
